@@ -10,6 +10,6 @@
  
  This is one static example of how can it look
  
- ![](Graphic-EQ-Template/SampleImage/sampleImage.png)
+ ![](SampleImage/sampleImage.png)
 
 Graphic EQ Template
