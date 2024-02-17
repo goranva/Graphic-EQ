@@ -1,7 +1,5 @@
 # Graphic-EQ-Template
  
- ## Graphic EQ template
- 
  This template is only the EQ.
  
  Functions to read parameters in real time for the filter are missing.
